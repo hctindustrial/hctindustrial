@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## HCT INDUSTRIAL
 
-You can use the [editor on GitHub](https://github.com/hctindustrial/hctindustrial/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Industrial tools are the foundation of manufacturing plants and factories. There are a wide variety of tools used in all types of industries. Different kinds of techniques and scientific measures are taken for the designing of Industrial machines. The specific mechanism is essential to perform a particular task. In this post, you will know the types of Industrial tools and ways to [Buy Industrial Tools](https://hctindustrial.com.au/) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
